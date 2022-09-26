@@ -33,3 +33,19 @@ Primeiro commit:
  * Interfaces que representam os dados vindos do servidor.
  * Serviço para consulta de dados servidor.
  * Consumindo o serviço no component
+
+## Módulo 2 - Operadores de transformação
+
+ * Aplicando operdaores a um observable
+ * Debugar o fluxo de dados de um observable com o operador tap
+ * Como alterar o dado de um flixo com o operador map
+ * O  pipe async do angular e como ele simplifica a manupulação de um observable.
+ * O gráfico de marbles e como ele nos ajuda a entender os peradores do RxJs.
+
+ O operdaor map executa a operação no momento que ela chega. Utilizamos o operador pluck para extrair o array de ações que estava no atributo, depois utilizamos o operador map para ordenar essas ações pelo código.
+
+## Módulo 3 - Gráfico de Marble
+
+ * Escuntando os eventos de digitação de um formulário angular utilizando RxJS
+ * Alternando o fluxo da digitação para o fluxo da requisição ao servidor utilizando o operdaor switchMap
+ * Unindo fluxos de informações utilizando a função merge.
