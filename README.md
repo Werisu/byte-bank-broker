@@ -49,3 +49,9 @@ Primeiro commit:
  * Escuntando os eventos de digitação de um formulário angular utilizando RxJS
  * Alternando o fluxo da digitação para o fluxo da requisição ao servidor utilizando o operdaor switchMap
  * Unindo fluxos de informações utilizando a função merge.
+
+## Módulo 4 - Operadores de filtro
+
+  * Commo controlar o fluxo de informações utilizando o operador filter.
+  * Como criar uma espera dos comandos de eventos utilizando o perador debounceTime.
+  * Como evitar duplicação de termos da busca ao servidor utilizando o operador distinctUntilChanged.
